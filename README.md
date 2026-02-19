@@ -1,2 +1,4 @@
 # Lab_ExampleClock
-Download and drag it to blueJ.
+
+Download and Drag to blueJ.
+After Compiling run main not new JMath.
